@@ -18,7 +18,7 @@ st.sidebar.subheader(("Input a picture of a Face."))
 
 #Load Model
 def resnet():
-	model = models.resnet50(pretrained=False).to(device)
+    model = models.resnet50(pretrained=False).to(device)
     for param in model.parameters():
         param.requires_grad = False
 
