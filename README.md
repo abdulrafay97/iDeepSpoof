@@ -3,7 +3,7 @@
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-79FEE1)](https://pytorch.org)
 ![Deep Learning](https://img.shields.io/badge/Type-Deep%20Learning-FFAE42)
 [![Language](https://img.shields.io/badge/Language-Python-0000FF)](https://www.python.org/)
-[![Model](https://img.shields.io/badge/Model-ResNet%2050-79FFB2)](https://pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b2.html)
+[![Model](https://img.shields.io/badge/Model-ResNet50-79FFB2)](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html)
 
 ## Web-Server
 This repo contains source coude for *iDeepSpoof* webserver, developed and deployed using Streamlit, which can be accessed on [![Web-Server](https://img.shields.io/badge/WebServer-Streamlit-808080)](https://abdulrafay97-ideepspoof-app-shb0bh.streamlit.app/)
